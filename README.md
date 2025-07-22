@@ -1,14 +1,14 @@
 ---
 layout: home
-title: CIS373 - Pervasive Computing
+title: CIS241 - System-level Programming and Utilities
 nav_exclude: true
 permalink: index.html
 seo:
   type: Course
-  name: Pervasive Computing
+  name: System-level Programming and Utilities
 ---
 
-# CIS373 - Pervasive Computing
+# CIS241 - System-level Programming and Utilities
 {:.no_toc}
 
 ## Table of contents
@@ -23,33 +23,20 @@ seo:
 
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
-* Term Project Progress - April 11
-* HW9 - April 11
-* Term Project Presentations - April 15
-* Term Project Deliverables - April 19
+* TBD
 
 
 ## Course Description
-
-This course introduces students to mobile, ubiquitous, pervasive, and Internet-of-Things (IoT) computing systems and services. Students will develop design skills for pervasive software development using different device platforms. It also provides an overview of future trends and ongoing research in these fast-growing areas. 
 
 ---
 
 ## Learning Objectives
 
-After successful completion of the course, the students will be able to:
-
-1. Analysis/Identify: Identify aspects of mobile, ubiquitous and pervasive computing systems.
-2. Analysis/Analyze: Analyze the current problems in pervasive systems and the need for using the IoT as a solution vehicle.
-3. Adaptation/Develop: Develop research skills to stay current with the rapidly changing nature of data acquisition and technologies in the IoT sensor based systems.
-4. Adaptation/Build: Build Internet of Things (IoT) solutions.
-5. Application/Apply: Apply defensive security techniques to protect IoT infrastructure
-
 ---
 
 ## Lecture
 
-Class meets 1 time a week in person.  Typically class will comprise a lecture, discussion, and a lab.  Please ensure you bring your hardware kit (Circuit Playground + connectors) to each class. 
+Class meets 2 times a week in person.  Typically class will comprise a lecture, discussion, and in-class work.  
 
 ---
 
