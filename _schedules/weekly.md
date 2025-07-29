@@ -18,35 +18,49 @@ timeline:
   - '4:30 PM'
   - '5:00 PM'
   - '5:30 PM'
-  - '6:00 PM'
-  - '6:30 PM'
-  - '7:00 PM'
-  - '7:30 PM'
-  - '8:00 PM'
-  - '8:30 PM'
 schedule:
   - name: Monday
-  - name: Tuesday
     events:
-      - name: Office Hours
+      - name: Section 01
         start: 10:00 AM
-        end: 11:00 AM
-        location: MAK D2-210
-  - name: Wednesday
-    events:
+        end: 10:50 AM
+        location: MAK A1-110
+      - name: Section 02
+        start: 11:00 AM
+        end: 11:50 AM
+        location: MAK A1-110
       - name: Office Hours
         start: 1:00 PM
         end: 2:00 PM
-        location: Zoom
-  - name: Thursday
-    events:
-      - name: Office Hours
-        start: 10:00 AM
-        end: 11:00 AM
         location: MAK D2-210
+  - name: Tuesday
+  - name: Wednesday
+    events:
       - name: Section 01
-        start: 6:00 PM
-        end: 8:50 PM
-        location: MAK D2-233
+        start: 10:00 AM
+        end: 10:50 AM
+        location: MAK A1-110
+      - name: Section 02
+        start: 11:00 AM
+        end: 11:50 AM
+        location: MAK A1-110
+      - name: Office Hours
+        start: 1:00 PM
+        end: 2:00 PM
+        location: MAK D2-210
+  - name: Thursday
   - name: Friday
+    events:
+      - name: Section 01
+        start: 10:00 AM
+        end: 10:50 AM
+        location: MAK A1-110
+      - name: Section 02
+        start: 11:00 AM
+        end: 11:50 AM
+        location: MAK A1-110
+      - name: Office Hours
+        start: 1:00 PM
+        end: 2:00 PM
+        location: MAK D2-210
 ---
