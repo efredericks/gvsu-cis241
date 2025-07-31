@@ -1,31 +1,195 @@
 ---
-title: Slides and Readings for CIS373 - Pervasive Computing
+title: Slides and Readings for CIS241 - System-level Programming and Utilities
 ---
 
 1
-: [Introduction](/gvsu-cis373/assets/slides/CIS373-1-Introduction.pdf)
-  : (Read prior to class) [The Computer for the 21st Century - Weiser](/gvsu-cis373/assets/weiser-1991-ubiquitous.pdf)
+: Introduction - [HTML](/gvsu-cis241/assets/slides/cis241-1-intro.html) | [PDF](/gvsu-cis241/assets/slides/cis241-1-intro.pdf)
+  : -
 
 2
-: [System Architectures](/gvsu-cis373/assets/slides/CIS373-2-System-Architectures.pdf)
+: SSH - [HTML]() | [PDF]()
+  : -
 
 3
-: [Wireless Sensor Networks (1)](/gvsu-cis373/assets/slides/CIS373-3-WSN-1.pdf)
+: Linux Navigation
+  : -
 
 4
-: [Wireless Sensor Networks (2)](/gvsu-cis373/assets/slides/CIS373-4-WSN-2.pdf)
+: Working with Files 
+  : -
 
 5
-: [Introduction to Research!](/gvsu-cis373/assets/slides/CIS373-5-Introduction-to-Research.pdf)
+: File Transfer 
+  : -
 
 6
-: [VANETs](/gvsu-cis373/assets/slides/CIS373-6-VANETs.pdf)
+: Vim 
+  : -
 
 7
-: [Wearable Computing](/gvsu-cis373/assets/slides/CIS373-7-Wearable-Computing.pdf)
+: More SSH 
+  : -
 
 8
-: [Edge Computing](/gvsu-cis373/assets/slides/CIS373-8-Edge-Fog-Computing.pdf)
+: Scripting and History 
+  : -
 
 9
-: [Security and Privacy](/gvsu-cis373/assets/slides/CIS373-9-Security-and-Privacy.pdf)
+: IO Redirection and Piping 
+  : -
+
+10
+: Grep and Wildcards
+  : -
+
+11
+: File Manipulation
+  : -
+
+12
+: Compression
+  : -
+
+13
+: Git Intro
+  : -
+
+14
+: Git (Local) 
+  : -
+
+15
+: Git Branches
+  : -
+
+16
+: Git (Remote)
+  : -
+
+17
+: Git Merge Conflicts
+  : -
+
+18
+: Git Extras
+  : -
+
+19
+: Permissions
+  : -
+
+20
+: bashrc
+  : -
+
+21
+: Processes
+  : -
+
+22
+: Bash Scripting 
+  : -
+
+23
+: Bash Arguments and Variables
+  : -
+
+24
+: Bash Conditional
+  : -
+
+25
+: Bash Loops
+  : -
+
+26
+: Bash Arrays 
+  : -
+
+27
+: Bash Functions
+  : -
+
+28
+: Regex
+  : -
+
+29
+: sed
+  : -
+
+30
+: awk
+  : -
+
+31
+: C: Intro (1/2)
+  : -
+
+32
+: C: Intro (2/2)
+  : -
+
+33
+: C: Types and Printing 
+  : -
+
+34
+: C: Operators and Conditionals 
+  : -
+
+35
+: C: Arrays and Loops 
+  : -
+
+36
+: C: Pointers 
+  : -
+
+37
+: C: Functions  
+  : -
+
+38
+: C: Stack Heap
+  : -
+
+39
+: C: Dynamic Memory Allocation 
+  : -
+
+40
+: C: Input 
+  : -
+
+41
+: C: Structs  
+  : -
+
+42
+: C: Debugging  
+  : -
+
+43
+: C: Command Line Arguments 
+  : -
+
+44
+: C: 2D Arrays 
+  : -
+
+45
+: C: Memory and String Functions 
+  : -
+
+46
+: C: Make 
+  : -
+
+47
+: C: File IO  
+  : -
+
+48
+: The Rest 
+  : -
