@@ -1,0 +1,17 @@
+img[alt~="top-right"] {
+  position: absolute;
+  top: 130px;
+  right: 30px;
+}
+
+img[alt~="bottom-right"] {
+  position: absolute;
+  top: 300px;
+  right: 50px;
+}
+
+img[alt~="top-corner"] {
+    position:absolute;
+    top:20px;
+    right:20px; 
+}
