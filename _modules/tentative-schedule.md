@@ -3,11 +3,11 @@ title: Slides and Readings for CIS241 - System-level Programming and Utilities
 ---
 
 1
-: Introduction - [HTML](/gvsu-cis241/assets/slides/cis241-1-intro.html) | [PDF](/gvsu-cis241/assets/slides/cis241-1-intro.pdf)
+: Introduction - [HTML](/gvsu-cis241/assets/slides/1-intro.html) | [PDF](/gvsu-cis241/assets/slides/1-intro.pdf)
   : -
 
 2
-: SSH - [HTML](/gvsu-cis241/assets/slides/cis241-2-ssh.html) | [PDF](/gvsu-cis241/assets/slides/cis241-2-ssh.pdf)
+: SSH - [HTML](/gvsu-cis241/assets/slides/2-ssh.html) | [PDF](/gvsu-cis241/assets/slides/2-ssh.pdf)
   : -
 
 3
