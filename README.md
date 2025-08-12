@@ -46,6 +46,27 @@ There will be a half-semester term project.  Check out the [term projects page](
 
 ---
 
+## Textbooks (none required)
+
+There are many free resources out there on the internet.  Here are a few recommended:
+
+* [The Linux Command Line - William Shotts (free PDF download)](https://linuxcommand.org/tlcl.php)
+* [Curated list of Linux resources](https://github.com/learnbyexample/scripting_course/blob/master/Linux_curated_resources.md)
+
+* [WikiBooks - C Programming](https://en.wikibooks.org/wiki/C_Programming)
+* [Learn to Code with C (MagPi - flashy and short bits of info but good for a quick read)](https://magazine.raspberrypi.com/books/essentials-c-v1)
+
+The following textbooks are available for free online through
+GVSU's library.  You may find a combination of them useful:
+
+* [Linux Pocket Guide, 3rd edition by Barrett (2016)](https://www.oreilly.com/library/view/linux-pocket-guide/9781491927557/)
+* [The Linux Command Line, 2nd edition by Shotts (2019)](https://www.oreilly.com/library/view/the-linux-command/9781492071235/)
+* [Linux in a Nutshell, 6th edition by Love, Figgins, Siever and Robbins (2009)](https://www.oreilly.com/library/view/linux-in-a/9780596806088/)
+* [Understanding and Using C Pointers by Reese (2013)](https://www.oreilly.com/library/view/understanding-and-using/9781449344535/)
+* [C in a Nutshell by Crawford and Prinz (2005)](https://www.oreilly.com/library/view/c-in-a/0596006977/)
+* [Head First C by Griffiths and Griffiths (2012)](https://www.oreilly.com/library/view/head-first-c/9781449335649/)
+* [C Programming Absolute Beginner’s Guide, 3rd edition by Miller and Perry (2013)](https://www.oreilly.com/library/view/c-programming-absolute/9780133149869/)
+
 ## Assignments
 
 All assignments are due by 11:59pm on the date they are due.  Please check Blackboard regularly for upcoming due dates.  If you are struggling or are having problems, please contact me in advance.  If you message me or email me the night something is due I will most likely not accept your reasoning.  If you get in touch early then we can work it out.
