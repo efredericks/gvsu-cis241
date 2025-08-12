@@ -28,21 +28,35 @@ seo:
 
 ## Course Description
 
+Introduction to software infrastructure underlying development of computer programs. Topics include Linux utilities, shell scripting, processes, facilities for programming, the C programming language, libraries, structures, pointers, dynamic memory management, and system calls.
+
+Prerequisite: C or better in CIS 163 or C or better in CIS 260
+
+Credits: 3
+
 ---
 
 ## Learning Objectives
+
+After successful completion of the course a student should be able to:
+
+* Application/Use: Use command-line interface to do basic system operations such as create a directory, modify file permissions, create a link, manage processes, and access a computer remotely.
+* Mechanism/Manipulate: Manipulate basic features of a command-line environment such as the 'PATH', which specifies the locations of executable programs, and the 'CLASSPATH', which specifies the locations of Java classes.
+* Synthesis/Write: Write basic meta-programs in a shell or scripting language, e.g. to compile statistics for numbers stored in text files.
+* Application/Use: Use build-system utilities such as 'make'/'cmake', 'gdb', or 'SCons' to edit, compile, test, time, debug, and profile a C program.
+* Synthesis/Construct: Construct programs that access data by using the range of pointer operations and manual dynamic memory management to implement basic ordered binary trees a.k.a. binary search trees (BSTs).
 
 ---
 
 ## Lecture
 
-Class meets 2 times a week in person.  Typically class will comprise a lecture, discussion, and in-class work.  
+Class meets 3 times a week in person.  Typically class will comprise a lecture, discussion, and/or in-class work.  
 
 ---
 
 ## Term Project
 
-There will be a half-semester term project.  Check out the [term projects page](term-projects) for more details.
+There won't be a full-on term project, however the last assignment will be larger in scope (and weighted more).  We'll talk about this after the midterm.
 
 ---
 
@@ -69,9 +83,9 @@ GVSU's library.  You may find a combination of them useful:
 
 ## Assignments
 
-All assignments are due by 11:59pm on the date they are due.  Please check Blackboard regularly for upcoming due dates.  If you are struggling or are having problems, please contact me in advance.  If you message me or email me the night something is due I will most likely not accept your reasoning.  If you get in touch early then we can work it out.
+All assignments are to be submitted by 11:59pm on the date they are due.  Please check Blackboard regularly for upcoming due dates.  If you are struggling or are having problems, please contact me in advance.  If you message me or email me the night something is due I will most likely not accept your reasoning.  If you get in touch early then we can work it out.
 
-* Individual and team assignment late penalty: 10% per day (including weekends)
+* Individual and team assignment late penalty: 10% per day (including weekends).  0 after 3 days.
 
 ### Submissions
 
@@ -80,30 +94,14 @@ All assignments are due by 11:59pm on the date they are due.  Please check Black
 
 ---
 
-## Hardware Kit
-
-The hardware kit available in the GVSU Laker store is **required**.  It should comprise:
-
-* Circuit Playground Bluefruit - Bluetooth Low Energy: [https://www.adafruit.com/product/4333](https://www.adafruit.com/product/4333){:target="\_blank"}
-* MicroUSB to USB cable with data line (data line required otherwise the device can't be programmed): [https://www.adafruit.com/product/592](https://www.adafruit.com/product/592){:target="\_blank"}
-* Set of alligator clip leads (12): [https://www.adafruit.com/product/1008](https://www.adafruit.com/product/1008){:target="\_blank"}
-
-Labs and homework assignments will be focused around the Circuit Playground and we will be using them in the first class - ensure you're prepared for day 1!
-
----
-
 ## Resources
 
 Here are a list of resources I've collected that might help out.
 
-### Adafruit Circuit Playground Bluefruit 
+### Terminal Installation
 
-* [Adafruit Circuit Playground Bluefruit](https://learn.adafruit.com/adafruit-circuit-playground-bluefruit?view=all){:target="\_blank"}
-
-### CircuitPython
-
-* [CircuitPython Documentation](https://learn.adafruit.com/welcome-to-circuitpython/circuitpython-documentation){:target="\_blank"}
-* [CircuitPython Homepage](https://circuitpython.org/){:target="\_blank"}
+* WSL
+* VirtualBox
 
 ### Git/GitHub-Related
 
