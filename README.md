@@ -100,8 +100,10 @@ Here are a list of resources I've collected that might help out.
 
 ### Terminal Installation
 
-* WSL
-* VirtualBox
+(From Dr. Carrier):
+
+* [Mac Homebrew Guide](https://github.com/cis241-gvsu/w25-classmaterial/blob/main/mac-homebrew-guide.md)
+* [WSL Guide](https://github.com/cis241-gvsu/w25-classmaterial/blob/main/wsl-guide.md)
 
 ### Git/GitHub-Related
 
