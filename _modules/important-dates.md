@@ -15,7 +15,7 @@ title: Important Dates - Fall 2025
   : Thanksgiving break
 
 {: .label .label-red } Exam
-: October 9, 2:30pm - 3:45pm
+: October 9, 10:00am - 10:50am
   : Midterm exam
 
 {: .label .label-green } Info
@@ -23,5 +23,5 @@ title: Important Dates - Fall 2025
   : Classes end (all materials due)
 
 {: .label .label-red } Exam
-: December 11, 2:00pm - 3:50pm
+: December 8, 10:00am - 11:50am
   : Final exam
