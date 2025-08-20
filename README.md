@@ -23,7 +23,8 @@ seo:
 
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
-* TBD
+* IC1 - 08/27 by 11:59pm
+* HW1 - 08/29 by 11:59pm
 
 
 ## Course Description
