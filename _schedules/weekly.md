@@ -25,13 +25,9 @@ schedule:
         start: 10:00 AM
         end: 10:50 AM
         location: MAK A1-110
-      - name: Section 02
+      - name: Office Hours
         start: 11:00 AM
         end: 11:50 AM
-        location: MAK A1-110
-      - name: Office Hours
-        start: 1:00 PM
-        end: 2:00 PM
         location: MAK D2-210
   - name: Tuesday
   - name: Wednesday
@@ -40,13 +36,9 @@ schedule:
         start: 10:00 AM
         end: 10:50 AM
         location: MAK A1-110
-      - name: Section 02
+      - name: Office Hours
         start: 11:00 AM
         end: 11:50 AM
-        location: MAK A1-110
-      - name: Office Hours
-        start: 1:00 PM
-        end: 2:00 PM
         location: MAK D2-210
   - name: Thursday
   - name: Friday
@@ -55,12 +47,8 @@ schedule:
         start: 10:00 AM
         end: 10:50 AM
         location: MAK A1-110
-      - name: Section 02
+      - name: Office Hours
         start: 11:00 AM
         end: 11:50 AM
-        location: MAK A1-110
-      - name: Office Hours
-        start: 1:00 PM
-        end: 2:00 PM
         location: MAK D2-210
 ---
