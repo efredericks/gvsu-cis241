@@ -24,5 +24,20 @@ This page lists the commands that you should be practicing.  I will do my best t
 
 * `ls` - List files
   * E.g., `ls ~`, `ls .`, `ls CIS241`
+
 * `cd` - Change directory
   * E.g., `cd ~`, `cd ..`, `cd /WEB_STUDENT/yourusername`
+
+* `touch filename` - Create empty file
+
+* `rm` - Remove -- **BE CAREFUL - THERE IS NO RECYCLE BIN AND ANYTHING DELETED CANNOT BE RECOVERED**
+  * E.g., `rm filename` - deletes filename
+  * `rm -rf directory` - removes the directory AND everything inside of it
+
+* `rmdir` - Remove directory
+  * E.g., `rmdir directory` - note, directory **must** be empty for this to work (the `rm -rf` command takes care of the deletion if not)
+
+# Editing
+
+* `nano <filename>` - edit a file with the nano editor
+  * `^` in the bottom menu represents Ctrl (or Cmd if you're on Mac) 
