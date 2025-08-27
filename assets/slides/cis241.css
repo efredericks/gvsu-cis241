@@ -60,3 +60,7 @@ ul {
 #opaque {
   background: #000000aa;
 }
+
+.language-bash {
+  font-family: monospace !important;
+}

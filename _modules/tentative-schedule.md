@@ -11,7 +11,7 @@ title: Slides and Readings for CIS241 - System-level Programming and Utilities
   : -
 
 3
-: Linux Navigation
+: Linux Navigation - [HTML](/gvsu-cis241/assets/slides/3-filesystem.html) | [PDF](/gvsu-cis241/assets/slides/3-filesystem.pdf)
   : -
 
 4
