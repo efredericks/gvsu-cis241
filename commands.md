@@ -37,7 +37,29 @@ This page lists the commands that you should be practicing.  I will do my best t
 * `rmdir` - Remove directory
   * E.g., `rmdir directory` - note, directory **must** be empty for this to work (the `rm -rf` command takes care of the deletion if not)
 
+* `mv f1 f2` - Cut and paste or rename - `f1` is the original file/directory and `f2` is the new name of the file/directory
+  * Examples (assuming we have `~/file1`, `~/file2`, `~/dir1`, `~/dir1/dir2`
+    * `mv file1 file2` (renames `file1` to `file2`)
+    * `mv ~/file1 ~/dir1/my_new_file` (moves and renames `file1` to be `my_new_file` within `dir1`)
+    * `mv dir1 my_new_dir` (renames `dir1` to be `my_new_dir`)
+
+* `cp f1 f2` - Copy and paste (same concept as `mv`, but creates a copy)
+  * Examples (assuming we have `~/file1`, `~/file2`, `~/dir1`, `~/dir1/dir2`
+    * `cp file1 new_file` (copies `file1` to `new_file`)
+    * `cp -r dir1 newdir` (recursively copies `dir1` to `newdir` - meaning all the contents of `dir1` are also now in `newdir`)
+
+* `tree` - shows a tree-based graphical representation of your current working directory and its children
+  * `tree <path>` - same, but for the `<path>` provided
+
+* `pwd` - tells you where you are at in the filesystem
+
+# Viewing Files
+
+* `cat <filename>` - dumps contents of file to terminal
+
 # Editing
 
 * `nano <filename>` - edit a file with the nano editor
   * `^` in the bottom menu represents Ctrl (or Cmd if you're on Mac) 
+
+
