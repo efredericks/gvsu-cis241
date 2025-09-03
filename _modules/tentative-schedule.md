@@ -15,7 +15,7 @@ title: Slides and Readings for CIS241 - System-level Programming and Utilities
   : -
 
 4
-: Working with Files 
+: Working with Files - [HTML](assets/slides/4-vim-nano.html) | [PDF](/gvsu-cis241/assets/slides/4-vim-nano.pdf)
   : -
 
 5
