@@ -19,7 +19,7 @@ title: Slides and Readings for CIS241 - System-level Programming and Utilities
   : -
 
 5
-: File Transfer 
+: File Transfer  - [HTML](/gvsu-cis241/assets/slides/5-file-transfer.html) | [PDF](/gvsu-cis241/assets/slides/5-file-transfer.pdf)
   : -
 
 6
