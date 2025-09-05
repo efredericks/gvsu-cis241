@@ -12,6 +12,12 @@ This page lists the commands that you should be practicing.  I will do my best t
   * `ssh username@server_address`
   * E.g., `ssh yourusername@eos01.cis.gvsu.edu`
 
+# Getting files/directories
+
+* `wget <URL>` - gets a file from a remote URL
+* `git clone <REPO>` - clones a git repository
+  * Note - typically you'll want to use the `SSH` version for repositories YOU'll be updating and the `HTTP` version for repositories you just want to play with
+
 # Special file paths
 
 * `.` - current working directory
