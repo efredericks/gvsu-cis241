@@ -27,7 +27,7 @@ title: Slides and Readings for CIS241 - System-level Programming and Utilities
   : -
 
 7
-: Scripting and History 
+: History - [HTML](/gvsu-cis241/assets/slides/7-history.html) | [PDF](/gvsu-cis241/assets/slides/7-history.pdf)
   : -
 
 8
