@@ -23,7 +23,7 @@ title: Slides and Readings for CIS241 - System-level Programming and Utilities
   : -
 
 6
-: More SSH 
+: More SSH - [HTML](/gvsu-cis241/assets/slides/6-advanced-ssh.html) | [PDF](/gvsu-cis241/assets/slides/6-advanced-ssh.pdf)
   : -
 
 7
