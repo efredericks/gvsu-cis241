@@ -23,173 +23,169 @@ title: Slides and Readings for CIS241 - System-level Programming and Utilities
   : -
 
 6
-: Vim 
-  : -
-
-7
 : More SSH 
   : -
 
-8
+7
 : Scripting and History 
   : -
 
-9
+8
 : IO Redirection and Piping 
   : -
 
-10
+9
 : Grep and Wildcards
   : -
 
-11
+10
 : File Manipulation
   : -
 
-12
+11
 : Compression
   : -
 
-13
+12
 : Git Intro
   : -
 
-14
+13
 : Git (Local) 
   : -
 
-15
+14
 : Git Branches
   : -
 
-16
+15
 : Git (Remote)
   : -
 
-17
+16
 : Git Merge Conflicts
   : -
 
-18
+17
 : Git Extras
   : -
 
-19
+18
 : Permissions
   : -
 
-20
+19
 : bashrc
   : -
 
-21
+20
 : Processes
   : -
 
-22
+21
 : Bash Scripting 
   : -
 
-23
+22
 : Bash Arguments and Variables
   : -
 
-24
+23
 : Bash Conditional
   : -
 
-25
+24
 : Bash Loops
   : -
 
-26
+25
 : Bash Arrays 
   : -
 
-27
+26
 : Bash Functions
   : -
 
-28
+27
 : Regex
   : -
 
-29
+28
 : sed
   : -
 
-30
+29
 : awk
   : -
 
-31
+30
 : C: Intro (1/2)
   : -
 
-32
+31
 : C: Intro (2/2)
   : -
 
-33
+32
 : C: Types and Printing 
   : -
 
-34
+33
 : C: Operators and Conditionals 
   : -
 
-35
+34
 : C: Arrays and Loops 
   : -
 
-36
+35
 : C: Pointers 
   : -
 
-37
+36
 : C: Functions  
   : -
 
-38
+37
 : C: Stack Heap
   : -
 
-39
+38
 : C: Dynamic Memory Allocation 
   : -
 
-40
+39
 : C: Input 
   : -
 
-41
+40
 : C: Structs  
   : -
 
-42
+41
 : C: Debugging  
   : -
 
-43
+42
 : C: Command Line Arguments 
   : -
 
-44
+43
 : C: 2D Arrays 
   : -
 
-45
+44
 : C: Memory and String Functions 
   : -
 
-46
+45
 : C: Make 
   : -
 
-47
+46
 : C: File IO  
   : -
 
-48
+47
 : The Rest 
   : -
