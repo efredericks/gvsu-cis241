@@ -25,6 +25,7 @@ seo:
 
 * IC2 (Minilab 1): 09/09 by 11:59pm
 * IC3: 09/10 by 11:59pm
+* EC: 09/10 by 11:59pm
 
 
 ## Course Description
