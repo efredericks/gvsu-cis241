@@ -39,7 +39,7 @@ title: Slides and Readings for CIS241 - System-level Programming and Utilities
   : -
 
 10
-: File Manipulation
+: File Manipulation - [HTML](/gvsu-cis241/assets/slides/10-additional-cmds.html) | [PDF](/gvsu-cis241/assets/slides/10-additional-cmds.pdf)
   : -
 
 11
