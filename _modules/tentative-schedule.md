@@ -31,11 +31,11 @@ title: Slides and Readings for CIS241 - System-level Programming and Utilities
   : -
 
 8
-: IO Redirection and Piping 
+: IO Redirection and Piping - [HTML](/gvsu-cis241/assets/slides/8-redirection.html) | [PDF](/gvsu-cis241/assets/slides/8-redirection.pdf)
   : -
 
 9
-: Grep and Wildcards
+: Grep and Wildcards- [HTML](/gvsu-cis241/assets/slides/9-grep-sed.html) | [PDF](/gvsu-cis241/assets/slides/9-grep-sed.pdf)
   : -
 
 10
