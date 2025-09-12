@@ -43,7 +43,7 @@ title: Slides and Readings for CIS241 - System-level Programming and Utilities
   : -
 
 11
-: Compression
+: Compression - [HTML](/gvsu-cis241/assets/slides/11-compression.html) | [PDF](/gvsu-cis241/assets/slides/11-compression.pdf)
   : -
 
 12
