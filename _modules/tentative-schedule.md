@@ -47,7 +47,7 @@ title: Slides and Readings for CIS241 - System-level Programming and Utilities
   : -
 
 12
-: Git Intro
+: Git Intro - [HTML](/gvsu-cis241/assets/slides/12-git-intro.html) | [PDF](/gvsu-cis241/assets/slides/12-git-intro.pdf)
   : -
 
 13
