@@ -68,4 +68,14 @@ This page lists the commands that you should be practicing.  I will do my best t
 * `nano <filename>` - edit a file with the nano editor
   * `^` in the bottom menu represents Ctrl (or Cmd if you're on Mac) 
 
+# Piping and Redirecting
+
+* `command1 | command2`
+  * Send output of `command1` into `command2`
+
+* `command1 > file`
+  * Send output of `command` into a new file: `file`
+
+* `command1 > file 2> file.err`
+  * Send output of `command` into a new file (`file`) and error into a new file (`file.err`)
 

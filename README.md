@@ -23,9 +23,7 @@ seo:
 
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
-* IC2 (Minilab 1): 09/09 by 11:59pm
-* IC3: 09/10 by 11:59pm
-* EC: 09/10 by 11:59pm
+* HW2: 09/29 by 11:59pm
 
 
 ## Course Description
