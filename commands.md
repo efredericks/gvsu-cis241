@@ -79,3 +79,18 @@ This page lists the commands that you should be practicing.  I will do my best t
 * `command1 > file 2> file.err`
   * Send output of `command` into a new file (`file`) and error into a new file (`file.err`)
 
+# File Manipulation
+
+*Worth checking the `man` pages for parameters!*
+
+* `wc`
+  * Count lines, words, and bytes in a file
+
+* `cut`
+  * Get columns in a delimited file or character offsets per line
+
+* `tr`
+  * Replaces characters with a specified pattern
+
+* `diff`
+  * Compares two files
