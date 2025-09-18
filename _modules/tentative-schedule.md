@@ -51,11 +51,11 @@ title: Slides and Readings for CIS241 - System-level Programming and Utilities
   : -
 
 13
-: Git (Local) 
+: Git (Local) - [HTML](/gvsu-cis241/assets/slides/13-git-local.html) | [PDF](/gvsu-cis241/assets/slides/13-git-local.pdf)
   : -
 
 14
-: Git Branches
+: Git Branches - [HTML](/gvsu-cis241/assets/slides/14-git-branching.html) | [PDF](/gvsu-cis241/assets/slides/14-git-branching.pdf)
   : -
 
 15
