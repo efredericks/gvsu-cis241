@@ -24,7 +24,7 @@ seo:
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
 * HW2: 09/29 by 11:59pm
-* IC4: ~~09/18~~ 09/19 by 11:59pm
+* IC5: 09/24 by 11:59pm
 
 
 ## Course Description
