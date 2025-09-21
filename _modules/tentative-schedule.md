@@ -59,15 +59,15 @@ title: Slides and Readings for CIS241 - System-level Programming and Utilities
   : -
 
 15
-: Git (Remote)
+: Git (Remote) - [HTML](/gvsu-cis241/assets/slides/15-git-remote.html) | [PDF](/gvsu-cis241/assets/slides/15-git-remote.pdf)
   : -
 
 16
-: Git Merge Conflicts
+: Git Merge Conflicts - [HTML](/gvsu-cis241/assets/slides/16-git-merging.html) | [PDF](/gvsu-cis241/assets/slides/16-git-merging.pdf)
   : -
 
 17
-: Git Extras
+: Git Extras - [HTML](/gvsu-cis241/assets/slides/17-git-leftovers.html) | [PDF](/gvsu-cis241/assets/slides/17-git-leftovers.pdf)
   : -
 
 18
