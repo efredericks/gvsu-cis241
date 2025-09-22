@@ -51,7 +51,7 @@ title: Slides and Readings for CIS241 - System-level Programming and Utilities
   : -
 
 13
-: Git (Local) - [HTML](/gvsu-cis241/assets/slides/13-git-local.html) | [PDF](/gvsu-cis241/assets/slides/13-git-local.pdf)
+: Git (Local) [updated 09/22] - [HTML](/gvsu-cis241/assets/slides/13-git-local.html) | [PDF](/gvsu-cis241/assets/slides/13-git-local.pdf)
   : -
 
 14
