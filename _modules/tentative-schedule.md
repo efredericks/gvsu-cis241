@@ -71,121 +71,117 @@ title: Slides and Readings for CIS241 - System-level Programming and Utilities
   : -
 
 18
-: Permissions
+: Aliases, Permissions, Startup - [HTML](/gvsu-cis241/assets/slides/18-permissions.html) | [PDF](/gvsu-cis241/assets/slides/18-permissions.pdf)
   : -
 
 19
-: bashrc
-  : -
-
-20
 : Processes
   : -
 
-21
+20
 : Bash Scripting 
   : -
 
-22
+21
 : Bash Arguments and Variables
   : -
 
-23
+22
 : Bash Conditional
   : -
 
-24
+23
 : Bash Loops
   : -
 
-25
+24
 : Bash Arrays 
   : -
 
-26
+25
 : Bash Functions
   : -
 
-27
+26
 : Regex
   : -
 
-28
+27
 : sed
   : -
 
-29
+28
 : awk
   : -
 
-30
+29
 : C: Intro (1/2)
   : -
 
-31
+30
 : C: Intro (2/2)
   : -
 
-32
+31
 : C: Types and Printing 
   : -
 
-33
+32
 : C: Operators and Conditionals 
   : -
 
-34
+33
 : C: Arrays and Loops 
   : -
 
-35
+34
 : C: Pointers 
   : -
 
-36
+35
 : C: Functions  
   : -
 
-37
+36
 : C: Stack Heap
   : -
 
-38
+37
 : C: Dynamic Memory Allocation 
   : -
 
-39
+38
 : C: Input 
   : -
 
-40
+39
 : C: Structs  
   : -
 
-41
+40
 : C: Debugging  
   : -
 
-42
+41
 : C: Command Line Arguments 
   : -
 
-43
+42
 : C: 2D Arrays 
   : -
 
-44
+43
 : C: Memory and String Functions 
   : -
 
-45
+44
 : C: Make 
   : -
 
-46
+45
 : C: File IO  
   : -
 
-47
+46
 : The Rest 
   : -
