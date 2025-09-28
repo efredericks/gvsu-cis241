@@ -75,15 +75,15 @@ title: Slides and Readings for CIS241 - System-level Programming and Utilities
   : -
 
 19
-: Processes
+: Processes - [HTML](/gvsu-cis241/assets/slides/19-processes.html) | [PDF](/gvsu-cis241/assets/slides/19-processes.pdf)
   : -
 
 20
-: Bash Scripting 
+: Bash Scripting - [HTML](/gvsu-cis241/assets/slides/20-bash-basics.html) | [PDF](/gvsu-cis241/assets/slides/20-bash-basics.pdf)
   : -
 
 21
-: Bash Arguments and Variables
+: Bash Arguments and Variables - [HTML](/gvsu-cis241/assets/slides/21-bash-arguments.html) | [PDF](/gvsu-cis241/assets/slides/21-bash-arguments.pdf)
   : -
 
 22
