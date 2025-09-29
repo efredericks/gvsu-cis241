@@ -7,7 +7,7 @@ description: >-
 
 # Syllabus
 
-* [Fall 2025](/gvsu-cis241/assets/Syllabus_F2025_CIS241_Fredericks.pdf){:target="_blank"}
+* [Fall 2025 (updated 09/29 - midterm date)](/gvsu-cis241/assets/Syllabus_F2025_CIS241_Fredericks.pdf){:target="_blank"}
 
 # Plagiarism Policy
 
