@@ -87,7 +87,7 @@ title: Slides and Readings for CIS241 - System-level Programming and Utilities
   : -
 
 22
-: Bash Conditional
+: Bash Conditionals - [HTML](/gvsu-cis241/assets/slides/22-bash-conditionals.html) | [PDF](/gvsu-cis241/assets/slides/22-bash-conditionals.pdf)
   : -
 
 23
