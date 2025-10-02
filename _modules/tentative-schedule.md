@@ -91,7 +91,7 @@ title: Slides and Readings for CIS241 - System-level Programming and Utilities
   : -
 
 23
-: Bash Loops
+: Bash Loops - [HTML](/gvsu-cis241/assets/slides/23-bash-loops-arrays.html) | [PDF](/gvsu-cis241/assets/slides/23-bash-loops-arrays.pdf)
   : -
 
 24
