@@ -26,8 +26,7 @@ NO CLASS MONDAY 10/06!!
 
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
-* HW2: 09/29 by 11:59pm
-* IC6: 10/02 by 11:59pm
+* IC7: 10/08 by 11:59pm
 * **MIDTERM: 10/10**
 
 
