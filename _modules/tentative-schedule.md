@@ -91,97 +91,93 @@ title: Slides and Readings for CIS241 - System-level Programming and Utilities
   : -
 
 23
-: Bash Loops - [HTML](/gvsu-cis241/assets/slides/23-bash-loops-arrays.html) | [PDF](/gvsu-cis241/assets/slides/23-bash-loops-arrays.pdf)
+: Bash Loops and Arrays - [HTML](/gvsu-cis241/assets/slides/23-bash-loops-arrays.html) | [PDF](/gvsu-cis241/assets/slides/23-bash-loops-arrays.pdf)
   : -
 
 24
-: Bash Arrays 
+: Bash Functions - [HTML](/gvsu-cis241/assets/slides/24-bash-functions.html) | [PDF](/gvsu-cis241/assets/slides/24-bash-functions.pdf)
   : -
 
 25
-: Bash Functions
-  : -
-
-26
 : Regex
   : -
 
-27
+26
 : sed
   : -
 
-28
+27
 : awk
   : -
 
-29
+28
 : C: Intro (1/2)
   : -
 
-30
+29
 : C: Intro (2/2)
   : -
 
-31
+30
 : C: Types and Printing 
   : -
 
-32
+31
 : C: Operators and Conditionals 
   : -
 
-33
+32
 : C: Arrays and Loops 
   : -
 
-34
+33
 : C: Pointers 
   : -
 
-35
+34
 : C: Functions  
   : -
 
-36
+35
 : C: Stack Heap
   : -
 
-37
+36
 : C: Dynamic Memory Allocation 
   : -
 
-38
+37
 : C: Input 
   : -
 
-39
+38
 : C: Structs  
   : -
 
-40
+39
 : C: Debugging  
   : -
 
-41
+40
 : C: Command Line Arguments 
   : -
 
-42
+41
 : C: 2D Arrays 
   : -
 
-43
+42
 : C: Memory and String Functions 
   : -
 
-44
+43
 : C: Make 
   : -
 
-45
+44
 : C: File IO  
   : -
 
-46
+45
 : The Rest 
   : -
