@@ -104,6 +104,7 @@ title: Slides and Readings for CIS241 - System-level Programming and Utilities
 
 26
 : tmux and screen - [HTML](/gvsu-cis241/assets/slides/26-tmux-screen.html) | [PDF](/gvsu-cis241/assets/slides/26-tmux-screen.pdf)
+  : -
 
 27
 : sed

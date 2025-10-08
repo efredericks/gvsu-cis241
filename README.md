@@ -19,9 +19,6 @@ seo:
 
 ---
 
-{: .warning } 
-NO CLASS MONDAY 10/06!!
-
 ## Upcoming Deadlines
 
 *Note - check Blackboard for any in-class assignments and assignment files!*
