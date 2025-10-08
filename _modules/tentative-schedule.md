@@ -103,81 +103,84 @@ title: Slides and Readings for CIS241 - System-level Programming and Utilities
   : -
 
 26
+: tmux and screen - [HTML](/gvsu-cis241/assets/slides/26-tmux-screen.html) | [PDF](/gvsu-cis241/assets/slides/26-tmux-screen.pdf)
+
+27
 : sed
   : -
 
-27
+28
 : awk
   : -
 
-28
+29
 : C: Intro (1/2)
   : -
 
-29
+30
 : C: Intro (2/2)
   : -
 
-30
+31
 : C: Types and Printing 
   : -
 
-31
+32
 : C: Operators and Conditionals 
   : -
 
-32
+33
 : C: Arrays and Loops 
   : -
 
-33
+34
 : C: Pointers 
   : -
 
-34
+35
 : C: Functions  
   : -
 
-35
+36
 : C: Stack Heap
   : -
 
-36
+37
 : C: Dynamic Memory Allocation 
   : -
 
-37
+38
 : C: Input 
   : -
 
-38
+39
 : C: Structs  
   : -
 
-39
+40
 : C: Debugging  
   : -
 
-40
+41
 : C: Command Line Arguments 
   : -
 
-41
+42
 : C: 2D Arrays 
   : -
 
-42
+43
 : C: Memory and String Functions 
   : -
 
-43
+44
 : C: Make 
   : -
 
-44
+45
 : C: File IO  
   : -
 
-45
+46
 : The Rest 
   : -
