@@ -99,7 +99,7 @@ title: Slides and Readings for CIS241 - System-level Programming and Utilities
   : -
 
 25
-: Regex
+: Regex - [HTML](/gvsu-cis241/assets/slides/25-regex.html) | [PDF](/gvsu-cis241/assets/slides/25-regex.pdf)
   : -
 
 26
