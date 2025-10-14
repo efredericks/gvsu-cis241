@@ -115,73 +115,69 @@ title: Slides and Readings for CIS241 - System-level Programming and Utilities
   : -
 
 29
-: C: Intro (1/2)
+: C: Intro - [HTML](/gvsu-cis241/assets/slides/28-c-intro.html) | [PDF](/gvsu-cis241/assets/slides/28-c-intro.pdf)
   : -
 
 30
-: C: Intro (2/2)
+: C: Types and Printing - [HTML](/gvsu-cis241/assets/slides/29-c-types-print.html) | [PDF](/gvsu-cis241/assets/slides/29-c-types-print.pdf)
   : -
 
 31
-: C: Types and Printing 
-  : -
-
-32
 : C: Operators and Conditionals 
   : -
 
-33
+32
 : C: Arrays and Loops 
   : -
 
-34
+33
 : C: Pointers 
   : -
 
-35
+34
 : C: Functions  
   : -
 
-36
+35
 : C: Stack Heap
   : -
 
-37
+36
 : C: Dynamic Memory Allocation 
   : -
 
-38
+37
 : C: Input 
   : -
 
-39
+38
 : C: Structs  
   : -
 
-40
+39
 : C: Debugging  
   : -
 
-41
+40
 : C: Command Line Arguments 
   : -
 
-42
+41
 : C: 2D Arrays 
   : -
 
-43
+42
 : C: Memory and String Functions 
   : -
 
-44
+43
 : C: Make 
   : -
 
-45
+44
 : C: File IO  
   : -
 
-46
+45
 : The Rest 
   : -
