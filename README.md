@@ -23,8 +23,7 @@ seo:
 
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
-* IC7: 10/08 by 11:59pm
-* **MIDTERM: 10/10**
+* Miniproject 2: 10/24 by 11:59pm
 
 
 ## Course Description
