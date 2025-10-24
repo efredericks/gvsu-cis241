@@ -115,7 +115,7 @@ title: Slides and Readings for CIS241 - System-level Programming and Utilities
   : -
 
 29
-: C: Intro - [HTML](/gvsu-cis241/assets/slides/28-c-intro.html) | [PDF](/gvsu-cis241/assets/slides/28-c-intro.pdf)
+: C: Intro (updated 10/24) - [HTML](/gvsu-cis241/assets/slides/28-c-intro.html) | [PDF](/gvsu-cis241/assets/slides/28-c-intro.pdf)
   : -
 
 30
