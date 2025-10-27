@@ -123,7 +123,7 @@ title: Slides and Readings for CIS241 - System-level Programming and Utilities
   : -
 
 31
-: C: Operators and Conditionals - [HTML](/gvsu-cis241/assets/slides/30-c-conditionals-operations.html) | [PDF](/gvsu-cis241/assets/slides/3-filesystem.pdf)
+: C: Operators and Conditionals - [HTML](/gvsu-cis241/assets/slides/30-c-conditionals-operations.html) | [PDF](/gvsu-cis241/assets/slides/30-c-conditionals-operations.pdf)
   : -
 
 32
