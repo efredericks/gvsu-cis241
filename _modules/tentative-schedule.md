@@ -131,35 +131,36 @@ title: Slides and Readings for CIS241 - System-level Programming and Utilities
   : -
 
 33
+: C: Command Line Arguments - [HTML](/gvsu-cis241/assets/slides/32-c-cmd-line-args.html) | [PDF](/gvsu-cis241/assets/slides/32-c-cmd-line-args.pdf)
+  : -
+
+
+34
 : C: Pointers 
   : -
 
-34
+35
 : C: Functions  
   : -
 
-35
+36
 : C: Stack Heap
   : -
 
-36
+37
 : C: Dynamic Memory Allocation 
   : -
 
-37
+38
 : C: Input 
   : -
 
-38
+39
 : C: Structs  
   : -
 
-39
-: C: Debugging  
-  : -
-
 40
-: C: Command Line Arguments 
+: C: Debugging  
   : -
 
 41
