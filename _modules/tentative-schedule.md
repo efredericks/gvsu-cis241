@@ -136,11 +136,11 @@ title: Slides and Readings for CIS241 - System-level Programming and Utilities
 
 
 34
-: C: Pointers 
+: C: Pointers - [HTML](/gvsu-cis241/assets/slides/33-pointers.html) | [PDF](/gvsu-cis241/assets/slides/33-pointers.pdf)
   : -
 
 35
-: C: Functions  
+: C: Functions - [HTML](/gvsu-cis241/assets/slides/34-functions.html) | [PDF](/gvsu-cis241/assets/slides/34-functions.pdf)
   : -
 
 36
