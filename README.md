@@ -23,8 +23,7 @@ seo:
 
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
-* Miniproject 2: 10/24 by 11:59pm
-* IC8: 10/27 by 11:59pm
+* HW3: 11/14 by 11:59pm
 
 
 ## Course Description
