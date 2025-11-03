@@ -23,6 +23,7 @@ seo:
 
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
+* IC9: 11/5 by 11:59pm
 * HW3: 11/14 by 11:59pm
 
 
