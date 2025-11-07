@@ -144,11 +144,11 @@ title: Slides and Readings for CIS241 - System-level Programming and Utilities
   : -
 
 36
-: C: Stack Heap
+: C: Stack Heap - [HTML](/gvsu-cis241/assets/slides/35-stack-heap.html) | [PDF](/gvsu-cis241/assets/slides/35-stack-heap.pdf)
   : -
 
 37
-: C: Dynamic Memory Allocation 
+: C: Dynamic Memory Allocation  - [HTML](/gvsu-cis241/assets/slides/36-dynamic-memory.html) | [PDF](/gvsu-cis241/assets/slides/36-dynamic-memory.pdf)
   : -
 
 38
