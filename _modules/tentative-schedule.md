@@ -152,7 +152,7 @@ title: Slides and Readings for CIS241 - System-level Programming and Utilities
   : -
 
 38
-: C: Input 
+: C: Input - [HTML](/gvsu-cis241/assets/slides/37-c-input.html) | [PDF](/gvsu-cis241/assets/slides/37-c-input.pdf)
   : -
 
 39
