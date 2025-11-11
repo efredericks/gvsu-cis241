@@ -156,7 +156,7 @@ title: Slides and Readings for CIS241 - System-level Programming and Utilities
   : -
 
 39
-: C: Structs  
+: C: Structs - [HTML](/gvsu-cis241/assets/slides/38-structs.html) | [PDF](/gvsu-cis241/assets/slides/38-structs.pdf)
   : -
 
 40
