@@ -160,7 +160,7 @@ title: Slides and Readings for CIS241 - System-level Programming and Utilities
   : -
 
 40
-: C: Debugging  
+: C: Debugging - [HTML](/gvsu-cis241/assets/slides/39-debugging.html) | [PDF](/gvsu-cis241/assets/slides/39-debugging.pdf)
   : -
 
 41
