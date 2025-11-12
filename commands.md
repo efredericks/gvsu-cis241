@@ -94,3 +94,15 @@ This page lists the commands that you should be practicing.  I will do my best t
 
 * `diff`
   * Compares two files
+
+---
+
+# `fgets` newline fix
+
+```
+// replace newline in fgets
+char* result = fgets(s, 10, stdin);
+char *n = strchr(s, '\n');
+if (n != NULL) *n = '\0';
+```
+
