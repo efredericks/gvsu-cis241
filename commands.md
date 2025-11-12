@@ -97,10 +97,10 @@ This page lists the commands that you should be practicing.  I will do my best t
 
 ---
 
-# `fgets` newline fix
+# fgets newline fix
 
 ```
-// replace newline in fgets
+// replace newline in fgets 
 char* result = fgets(s, 10, stdin);
 char *n = strchr(s, '\n');
 if (n != NULL) *n = '\0';
