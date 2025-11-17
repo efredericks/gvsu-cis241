@@ -164,21 +164,25 @@ title: Slides and Readings for CIS241 - System-level Programming and Utilities
   : -
 
 41
-: C: 2D Arrays 
+: C: Header Files - [HTML](/gvsu-cis241/assets/slides/40-c-headers.html) | [PDF](/gvsu-cis241/assets/slides/40-c-headers.pdf)
   : -
 
 42
-: C: Memory and String Functions 
+: C: 2D Arrays - [HTML](/gvsu-cis241/assets/slides/41-c-2d-arrays.html) | [PDF](/gvsu-cis241/assets/slides/41-c-2d-arrays.pdf)
   : -
 
 43
-: C: Make 
+: C: Memory and String Functions 
   : -
 
 44
-: C: File IO  
+: C: Make 
   : -
 
 45
+: C: File IO  
+  : -
+
+46
 : The Rest 
   : -
