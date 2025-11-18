@@ -172,11 +172,11 @@ title: Slides and Readings for CIS241 - System-level Programming and Utilities
   : -
 
 43
-: C: Memory and String Functions 
+: C: Make - [HTML](/gvsu-cis241/assets/slides/43-c-make.html) | [PDF](/gvsu-cis241/assets/slides/43-c-make.pdf)
   : -
 
 44
-: C: Make 
+: C: Memory and String Functions
   : -
 
 45
