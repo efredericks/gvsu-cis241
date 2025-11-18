@@ -176,7 +176,7 @@ title: Slides and Readings for CIS241 - System-level Programming and Utilities
   : -
 
 44
-: C: Memory and String Functions
+: C: Memory and String Functions - [HTML](/gvsu-cis241/assets/slides/42-c-memory-string-fxns.html) | [PDF](/gvsu-cis241/assets/slides/42-c-memory-string-fxns.pdf)
   : -
 
 45
