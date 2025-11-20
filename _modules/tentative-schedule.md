@@ -177,7 +177,7 @@ title: Slides and Readings for CIS241 - System-level Programming and Utilities
   : -
 
 46
-: The Rest 
+: The Rest - [HTML](/gvsu-cis241/assets/slides/45-the-rest.html) | [PDF](/gvsu-cis241/assets/slides/45-the-rest.pdf)
   : -
 
 -
