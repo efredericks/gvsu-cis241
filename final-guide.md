@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Final exam guide
+nav_order: 5
 description: >-
     Final exam guide.
 ---
