@@ -23,8 +23,7 @@ seo:
 
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
-* Miniproject 3: 11/24 by 11:59pm
-* Makefile (EC): 11/25 by 11:59pm
+* Miniproject 4: 12/6 by 11:59pm
 
 
 ## Course Description
