@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Syllabus
+nav_order: 7
 description: >-
     Syllabus page.
 ---

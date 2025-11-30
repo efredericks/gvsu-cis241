@@ -2,6 +2,7 @@
 layout: page
 title: Commands to Practice
 description: Commands we talked about that you should practice.
+nav_order: 2
 ---
 
 This page lists the commands that you should be practicing.  I will do my best to keep this list updated as we go through things in class.

@@ -2,6 +2,7 @@
 layout: page
 title: Instructor
 description: A listing of all the course staff members.
+nav_order: 3
 ---
 
 ## Instructors

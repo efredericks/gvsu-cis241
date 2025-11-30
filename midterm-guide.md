@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Midterm guide
+nav_order: 4
 description: >-
     Midterm guide.
 ---
