@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Midterm guide
+title: Final exam guide
 description: >-
-    Midterm guide.
+    Final exam guide.
 ---
 
 # CIS241 - F2025 Final Exam Study Guide
