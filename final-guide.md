@@ -7,7 +7,7 @@ description: >-
 
 # CIS241 - F2025 Final Exam Study Guide
 
-## All material from the midterm onward is valid for questions
+## All material from the midterm onward (i.e., starting with regex) is valid for questions
 
 * In-class discussions/demos
 * Homeworks
@@ -27,61 +27,63 @@ description: >-
 
 **Note - this is not comprehensive - anything is valid from the slides/assignments**
 
-* Describe what a shell is and what it can be used for
-* What are the different (common) modes in vim and what are they used for
-* Describe how we know what type a file actually is
-* Describe what a Linux kernel actually does
-* What is a Linux distribution?
-* Why does Linux exist?  Why don't we just use Unix?
-* Describe the difference between absolute and relative paths, and be able to navigate to or work with a specified location (for both absolute and relative)
-* Describe the difference between bash commands in the shell and a bash script
-* Describe advantages and disadvantages of a Linux system
-* What are some common uses for a Linux system?
-* What is `/` in a Linux file system?  Where do your personal files typically exist?
-* What is the difference between a terminal and a shell?
-* Describe the difference between cloning a repository with git using either the https: or git: protocols - why do one over the other?
-* Describe the differences between FTP, sFTP, scp, and rsync
-* Describe the purposes of a `host` file (hostname alias), SSH keys, and how to create them
-* Describe the purpose of SSH and why we SSH into EOS
-* What does `echo $0` in the shell tell you?
-* What does `echo $0` in a bash script tell you?
-* What can a manual (man page) be used for?  How can you use it?
-* Describe and/or demonstrate redirecting, piping, and appending
-* Describe the differences between stdin and stdout and stderr
-* What does `sudo apt update && sudo apt upgrade` do?  Why can't you do that on EOS?
-* When chaining commands, describe the difference between using `;` vs `&&`.  What happens if you use a single `&`?
-* Describe (and demonstrate) the difference between the various wildcard characters when looking for files (i.e., globbing)
-  * For example, list all txt files in a directory, list all files that start with 7, etc.
-* Understand the purpose of `wc`, `cut`, and `tr`
-* What is the purpose of a tar archive?  How do we compress it?
-* What is the purpose of git?  Who created it and why?
-* What does it mean for a version control system to be distributed?  Why is that important?
-* What is the difference between a local and remote repository for git?
-* Describe the different processes in git (staging, committing, pushing/pulling) - what does each step **do**?
-* Be able to describe branching, why we branch, etc.
-* Describe how you might resolve a merge conflict
-* How do we identify a particular commit?
-* Why do we avoid rewriting history in git?
-* Why do we always check the status (or `pull`) from a remote repository **before** working and always commit/push when we're **done** working?
-* What does `git stash` do?  Why would you use it?
-* Describe what the various forms of permissions do and do not allow for each of the three categories of user.
-* What is the purpose of the `PATH` environment variable.  Why would you need to update it?  How do you make that persist?
-* What is the purpose of the background and foreground for jobs?  Why would you send a program to the background?  How would you get it back to the foreground?  How would you stop it? 
-* What is the purpose of the *init* daemon?
-* Understand the relationship between parent and child processes.
+* What is the purpose of regex?  How could you use it in a script?
+* What is the purpose of using tmux/screen? Give an example of its use.
+* What is the purpose of compiling a C program?  How is a compiled file different from programs in languages like Java or Python?
+* If I build a binary file with `gcc`, can I simply give it to you to run?  What would I have to do to make sure it works for you?
+* What is the purpose of a `#include` block?  What happens if I try to call `printf` without `#include <stdio.h>`?
+* What is a preprocessor directive?
+* Are the semi-colons *actually* required?
+* How do you run a program?
+* How do you compile a program?  Compile with extra warnings displayed?  Compile to a named binary file?
+* Why do we worry about how many bits a variable has?  How large of a number does a 32-bit unsigned integer allow?  What if it were signed?
+* Boolean doesn't exist *by default* - describe two ways you could use a Boolean in C.
+* What is a pointer?  Why bother using one?  Give an example.
+* How can you be sure that dynamically-allocated memory is initialized to 0?  To another value?
+* What are `int argc, char* argv[]`?
+* How do you convert a `char` to an `int`?
+* What is the difference between `&` and `*` with respect to pointers?
+* What is variable scope?
+* Describe what the stack and what the heap are.
+  * If I use statically-defined variables (e.g., `int x`), where is that memory stored?
+  * If I use `malloc`, where is that memory stored?
+* Be able to follow a C program and describe what is happening (could be looping, could be pointer math, etc.).
+* What is the difference between a function prototype and function definiton? 
+* What is pass-by-reference and pass-by-value?  What does C natively do (i.e., without pointers)?
+* What is the purpose of using `free` to clear up memory created with `malloc`/`calloc`?
+* What are some memory-specific concerns one would have with reading user input?  
+* What is the purpose of a `struct`?  What is the purpose of a `union`?
+* Why would we use `typedef`?
+* What is the purpose of debugging?  Why would we use `gdb` over trace debugging (i.e., print statements)?
+* What are *header guards*?  Why do we need them?
+* Are 2D arrays always contiguous in memory?  Is it a problem if they aren't?  How would you access data if they weren't (i.e., if you couldn't do `arr[1][4]`)?
+* What is the purpose of a makefile?  Describe three actions you can do with it.
+* Describe two uses of the string library.
+* Describe how you would read and write from/to a file.
 
 ## Sample practical questions
 
 **Note - this is not comprehensive - anything is valid from the slides/assignments**
 
+* Define a regex that matches an input (using extended regular expressions as we did in class)
+
 * In C, be able to:
   * Read and use command-line arguments
-  * Create and use 1D array
-  * Create and use 2D array
+  * Print output to the terminal (ints, strings, chars, etc.)
+  * Use preprocessor directives to define variables, check if they exist, etc.
+  * Create, initialize, and use a 1D array
+  * Create, initialize, and use a 2D array
+  * Create *dynamic* memory of a specified size and type.
+  * Create and use a header file **with** header guards
   * Handle user input (characters, integers, or strings)
   * Create and use a struct
+  * Define and call functions
   * Read and write a file
-  * 
+  * Use control/loop statements (`if`, `for`, `while`, etc.).
+  * Create a variable, create a pointer to that variable, and update the original variable's value via the pointer.
+  * Access an array via index and via a pointer
+  * Pass a struct to a function and update it
+  * Define a makefile that builds a target binary, builds an intermediate binary, and cleans up its mess.
 
   * ---
 
