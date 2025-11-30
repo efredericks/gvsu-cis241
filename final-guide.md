@@ -60,6 +60,7 @@ description: >-
 * What is the purpose of a makefile?  Describe three actions you can do with it.
 * Describe two uses of the string library.
 * Describe how you would read and write from/to a file.
+* What is the purpose of an `enum`?
 
 ## Sample practical questions
 
