@@ -173,7 +173,7 @@ title: Slides and Readings for CIS241 - System-level Programming and Utilities
   : -
 
 45
-: C: File IO - [HTML](/gvsu-cis241/assets/slides/44-c-file-io.html) | [PDF](/gvsu-cis241/assets/slides/44-c-file-io.pdf)
+: C: File IO (updated 12/2) - [HTML](/gvsu-cis241/assets/slides/44-c-file-io.html) | [PDF](/gvsu-cis241/assets/slides/44-c-file-io.pdf)
   : -
 
 46
